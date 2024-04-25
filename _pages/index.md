@@ -24,12 +24,12 @@ DRAMATIC STARS（ドラマチックスターズ）は、315プロダクション
 ーアイドル紹介](https://idolmaster-official.jp/sidem/idol#f2)
 
 ### アイドルメンバー紹介  
-**[天道輝](https://idolmaster-official.jp/sidem/idol/teru)**  
-{: align="center"}![太陽](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_1.jpg)  
-{: align="center"}**アイドル界の一番星になる男だ！**  
+<center>**[天道輝](https://idolmaster-official.jp/sidem/idol/teru)**  
+![太陽](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_1.jpg)</center>
+**アイドル界の一番星になる男だ！**  
 
-{: align="center"}**[桜庭薫](https://idolmaster-official.jp/sidem/idol/kaoru)**  
-{: align="center"}![先生](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_2.jpg)
+<right>**[桜庭薫](https://idolmaster-official.jp/sidem/idol/kaoru)**  
+![先生](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_2.jpg)</right>
 **準備は整った、行くぞ。**  
 
 **[柏木翼](https://idolmaster-official.jp/sidem/idol/tsubasa)**  
