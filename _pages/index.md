@@ -5,9 +5,7 @@ permalink: /
 ---
 
 アイドルマスターSideMより、アイドルユニットのDRAMATIC STARSの紹介をさせていただきます！  
-# 目次  
-1.アイドルマスターSideMとは  
-2.DRAMATIC STARSはどんなユニット？    
+
 
 # 1.アイドルマスターSideMとは  
 「アイドルマスター」シリーズのソーシャルゲームとして
@@ -15,13 +13,14 @@ permalink: /
 
 > [SideMとは - SideM - アイドルマスター ポータル](https://idolmaster-official.jp/sidem/wsm)
 
-現在はゲーム展開は行っておりませんが、[SideM | 【公式】アイドルマスター ポータル（アイマス）](https://idolmaster-official.jp/sidem)よりバンダイナムコIDに無料登録することでストーリアーカイブ等を閲覧することが可能となっております！(2024年4月時点)
+現在はゲーム展開を行っておりませんが、[SideM | 【公式】アイドルマスター ポータル（アイマス）](https://idolmaster-official.jp/sidem)よりバンダイナムコIDに無料登録することでストーリアーカイブ等を閲覧することが可能となっております(2024年4月時点)
 
 #　2.DRAMATIC STARSはどんなユニット？    
-DRAMATIC STARS（ドラマチックスターズ）は315プロダクションで結成されたアイドルユニットです！  
+DRAMATIC STARS（ドラマチックスターズ）は315プロダクションの所属アイドル3人で結成されたアイドルユニットです！  
 
 強い想いの力で、まっすぐ飛び立つ！  
->[アイドル紹介](https://idolmaster-official.jp/sidem/idol#f2)
+>[SideM | 【公式】アイドルマスター ポータル（アイマス）
+ーアイドル紹介](https://idolmaster-official.jp/sidem/idol#f2)
 
 ---
 
