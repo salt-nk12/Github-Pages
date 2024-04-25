@@ -36,8 +36,8 @@ permalink: /
 
 &nbsp;  
 &nbsp;  
-## 2.DRAMATIC STARSはどんなユニット？    
-![images](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/main_pc.png)
+## 2.DRAMATIC STARSはどんなユニット？ 
+![images](https://idolmaster-official.jp/live_event/sidem_fclive_bp/images/about/logo_ds.png)  
 **強い想いの力で、まっすぐ飛び立つ！**  
 DRAMATIC STARS（ドラマチックスターズ）は、315プロダクションに所属するアイドル3人で結成されたアイドルユニット。  
 元弁護士、元外科医、元パイロットという高学歴ユニット。略して「ドラスタ」。
@@ -51,7 +51,7 @@ DRAMATIC STARS（ドラマチックスターズ）は、315プロダクション
 ![太陽](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_1.jpg)
 **アイドル界の一番星になる男だ！**  
 &nbsp;  
-てんどう てる：28歳元弁護士。センター。明るく  
+てんどう てる：28歳元弁護士。センター。赤。
 アイドルにしては珍しくヒゲがあるが、これは童顔であることを気にしてのこと。  
 ダジャレが好きで、会話中に度々披露するが気づかれないことも。  
 薫とはケンカが絶えず、翼が仲裁に入ることもしばしば。てるすき。  
@@ -92,24 +92,32 @@ DRAMATIC STARS（ドラマチックスターズ）は、315プロダクション
 
 ### オススメ曲紹介  
 &nbsp; 
-**DRAMATIC STARS／STARLIGHT CELEBRATE!**  
-<iframe width="85" height="50" src="https://www.youtube.com/embed/MmFXKqgjBgk" title="ゲーム「アイドルマスター SideM　GROWING STARS」　DRAMATIC STARS／STARLIGHT CELEBRATE!　SideM Play List【アイドルマスター】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-原点にして頂点。
+**DRAMATIC STARS／MOON NIGHTのせいにして**  
+<iframe width="85" height="50" src="https://www.youtube.com/embed/wen9PudTwIg?si=s5k2aPwxn0gnPaXY&amp;start=70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+イントロでP（プロデューサー）は毎回「うっ」となる曲。月夜のせいにして奪われる。   
+ライブverは雄味が強くてさらに殺傷力が上がる。
 &nbsp; 
 
 **DRAMATIC STARS／Change to Chance**  
 <iframe width="85" height="50" src="https://www.youtube.com/embed/rR4PTHsX3v0?si=ye3qgxVsFNnCwOVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-3Dモデルを使用したライブ映像。ちなみに声優ライブでは声優たちがこの動画並にバチバチに踊って歌う。
-
+3Dモデルを使用したライブ映像。ちなみに声優ライブでは声優たちがこの動画並にバチバチに踊って歌う。  
+後悔を歌いつつも前を向くアイドル。彼らは背中がかっこいい。
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 **各種リンク**  
 &nbsp;  
 &nbsp;  
-|X  （旧：Twitter）|Youtube  （チャンネル）|Lantis  （音楽）|ラジオ  （ニコニコ）|
+|X 旧：Twitter|Youtube チャンネル|Lantis 音楽|ラジオ ニコニコ|
 |-----|-----|-----|-----|
 |[![アイドルマスター SideM【ブランド公式](https://pbs.twimg.com/profile_images/1613733680098467840/DGUGUf1T_200x200.png)](https://twitter.com/SideM_official) |[![アイマスチャンネル](https://pbs.twimg.com/profile_images/1764985159227674624/JNJsdKEh_200x200.jpg)](https://www.youtube.com/channel/UCe3uJZIjfYwNNR0S6W3GvEA) |[![lantis](https://www.lantis.jp/sidem/images/common/logo.png)](https://www.lantis.jp/sidem/) |[![ラジオ](https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2606757.jpg?1699982043)](https://ch.nicovideo.jp/sidem) |
 
 &nbsp;  
-(すべて2024年4月時点の情報です。)  
+ここまでお読みいただきありがとうございました！  
+他のユニットも315!（サイコ―！）なのでぜひとも315プロダクションをよろしくお願いいたします！  
+&nbsp;  
+(※すべて2024年4月時点の情報です。)  
 
 
 ---
