@@ -23,19 +23,20 @@ DRAMATIC STARS（ドラマチックスターズ）は、315プロダクション
 >[SideM | 【公式】アイドルマスター ポータル（アイマス）
 ーアイドル紹介](https://idolmaster-official.jp/sidem/idol#f2)
 
-### アイドルメンバー紹介  
-**[天道輝](https://idolmaster-official.jp/sidem/idol/teru)**  
-![太陽](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_1.jpg) {.left}
+### アイドルメンバー紹介      
+
+## **[天道輝](https://idolmaster-official.jp/sidem/idol/teru)**   
+![太陽](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_1.jpg) 
 **アイドル界の一番星になる男だ！**  
 
 
-**[桜庭薫](https://idolmaster-official.jp/sidem/idol/kaoru)**  
+## **[桜庭薫](https://idolmaster-official.jp/sidem/idol/kaoru)**  
 **準備は整った、行くぞ。**
-![先生](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_2.jpg) {.right}  
+![先生](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_2.jpg)  
 
 
-**[柏木翼](https://idolmaster-official.jp/sidem/idol/tsubasa)**  
-![てゅばさ](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_3.jpg) {.left}
+## **[柏木翼](https://idolmaster-official.jp/sidem/idol/tsubasa)**  
+![てゅばさ](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_3.jpg)   
 **オレの歌、聞いてください！**  
 
 
