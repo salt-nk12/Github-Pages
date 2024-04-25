@@ -93,23 +93,22 @@ DRAMATIC STARS（ドラマチックスターズ）は、315プロダクション
 ### オススメ曲紹介  
 &nbsp; 
 **DRAMATIC STARS／STARLIGHT CELEBRATE!**  
-<iframe width="100" height="50" src="https://www.youtube.com/embed/MmFXKqgjBgk" title="ゲーム「アイドルマスター SideM　GROWING STARS」　DRAMATIC STARS／STARLIGHT CELEBRATE!　SideM Play List【アイドルマスター】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+<iframe width="85" height="50" src="https://www.youtube.com/embed/MmFXKqgjBgk" title="ゲーム「アイドルマスター SideM　GROWING STARS」　DRAMATIC STARS／STARLIGHT CELEBRATE!　SideM Play List【アイドルマスター】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 原点にして頂点。
 &nbsp; 
 
 **DRAMATIC STARS／Change to Chance**  
-<iframe width="100" height="50" src="https://www.youtube.com/embed/rR4PTHsX3v0?si=ye3qgxVsFNnCwOVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="85" height="50" src="https://www.youtube.com/embed/rR4PTHsX3v0?si=ye3qgxVsFNnCwOVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 3Dモデルを使用したライブ映像。ちなみに声優ライブでは声優たちがこの動画並にバチバチに踊って歌う。
 
 **各種リンク**  
-
+&nbsp;  
+&nbsp;  
 |X  （旧：Twitter）|Youtube  （チャンネル）|Lantis  （音楽）|ラジオ  （ニコニコ）|
 |-----|-----|-----|-----|
 |[![アイドルマスター SideM【ブランド公式](https://pbs.twimg.com/profile_images/1613733680098467840/DGUGUf1T_200x200.png)](https://twitter.com/SideM_official) |[![アイマスチャンネル](https://pbs.twimg.com/profile_images/1764985159227674624/JNJsdKEh_200x200.jpg)](https://www.youtube.com/channel/UCe3uJZIjfYwNNR0S6W3GvEA) |[![lantis](https://www.lantis.jp/sidem/images/common/logo.png)](https://www.lantis.jp/sidem/) |[![ラジオ](https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2606757.jpg?1699982043)](https://ch.nicovideo.jp/sidem) |
 
 &nbsp;  
-&nbsp;  
-
 (すべて2024年4月時点の情報です。)  
 
 
