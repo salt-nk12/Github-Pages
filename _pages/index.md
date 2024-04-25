@@ -50,6 +50,7 @@ DRAMATIC STARS（ドラマチックスターズ）は、315プロダクション
 - ## [天道輝](https://idolmaster-official.jp/sidem/idol/teru)  （CV.仲村宗悟）
 ![太陽](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_1.jpg)
 **アイドル界の一番星になる男だ！**  
+&nbsp;  
 てんどう てる：28歳元弁護士。センター。明るく  
 アイドルにしては珍しくヒゲがあるが、これは童顔であることを気にしてのこと。  
 ダジャレが好きで、会話中に度々披露するが気づかれないことも。  
@@ -59,8 +60,9 @@ DRAMATIC STARS（ドラマチックスターズ）は、315プロダクション
 &nbsp;  
 &nbsp;  
 - ## [桜庭薫](https://idolmaster-official.jp/sidem/idol/kaoru) （CV.内田雄馬）
-**準備は整った、行くぞ。**
-![先生](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_2.jpg)  
+![先生](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_2.jpg)
+**準備は整った、行くぞ。**  
+&nbsp;  
 さくらば かおる。26歳元外科医。メガネが特徴でクール。完璧主義ながら熱い一面も。  
 デレたときにこちらが受ける衝撃が凄まじい。青の系譜。  
 &nbsp;  
@@ -70,6 +72,7 @@ DRAMATIC STARS（ドラマチックスターズ）は、315プロダクション
 - ## [柏木翼](https://idolmaster-official.jp/sidem/idol/tsubasa)　（CV.八代拓）
 ![てゅばさ](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_3.jpg)
 **オレの歌、聞いてください！**  
+&nbsp;  
 かしわぎ つばさ。24歳元パイロット。胃袋が底なしで特技は大食い。かわいい。脳トロ声。  
 声のイメージからゆるふわな印象を受けるがそれだけじゃない。意外としっかりしている。  
 &nbsp;   
