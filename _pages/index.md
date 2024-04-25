@@ -6,12 +6,7 @@ permalink: /
 
 アイドルマスターSideMより、アイドルユニットのDRAMATIC STARSの紹介をさせていただきます！      
 
-
-
 ---
-
-
-
 
 ## 1.アイドルマスターSideMとは    
 **[「アイドルマスター」シリーズ](https://idolmaster-official.jp/about)のソーシャルゲームとして2014年に誕生した  
@@ -19,8 +14,6 @@ permalink: /
 
 **プレイヤーはプロデューサーとなり、医者、フリーター、自衛官など...   
 様々な経歴を持つ個性豊かな男性アイドルたちと共に、トップアイドルを目指します。**  
- 
-
 
 現在はゲーム展開を行っておりませんが、[アイドルマスター ポータル](https://idolmaster-official.jp/sidem)より  バンダイナムコIDに登録することでストーリーやアーカイブ等を無料閲覧（一部有料）が可能となっております。    
 
@@ -35,19 +28,19 @@ permalink: /
 DRAMATIC STARS（ドラマチックスターズ）は、315プロダクションに所属するアイドル3人で結成されたアイドルユニットです！    
 
 
-### アイドルメンバー紹介      
+### アイドルメンバー紹介  
 
-## [天道輝](https://idolmaster-official.jp/sidem/idol/teru)  
+- ## [天道輝](https://idolmaster-official.jp/sidem/idol/teru)  （CV.仲村宗悟）
 ![太陽](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_1.jpg)   
 **アイドル界の一番星になる男だ！**  
-28歳元弁護士アイドル。
+28歳元弁護士。ダジャレが好きで、会話中に度々披露するが気づかれないことも。薫とはケンカが絶えない仲だが、。
 
-## [桜庭薫](https://idolmaster-official.jp/sidem/idol/kaoru)
+- ## [桜庭薫](https://idolmaster-official.jp/sidem/idol/kaoru)
 **準備は整った、行くぞ。**
 ![先生](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_2.jpg)  
 
 
-## [柏木翼](https://idolmaster-official.jp/sidem/idol/tsubasa)    
+- ## [柏木翼](https://idolmaster-official.jp/sidem/idol/tsubasa)    
 ![てゅばさ](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_3.jpg)   
 **オレの歌、聞いてください！**  
 
