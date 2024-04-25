@@ -21,8 +21,12 @@ permalink: /
 
 &nbsp;  
 &nbsp;  
-
-現在はゲーム展開を行っていないが、[アイドルマスター ポータル](https://idolmaster-official.jp/sidem)より  バンダイナムコIDに登録することでストーリーやアーカイブ等を閲覧（一部有料）が可能。    Youtubeには
+**理由（ワケ）あってアイドル！**
+アイドル事務所「315（サイコー!）プロダクション」に所属するアイドルは16ユニット49名。  
+一人一人様々な理由（わけ）をもつアイドルのプロデューサーとしてアイドルをプロデュースする作品。  
+&nbsp;  
+現在はゲーム展開を行っていないが、[アイドルマスター ポータル](https://idolmaster-official.jp/sidem)より  バンダイナムコIDに登録することでストーリーやアーカイブ等を閲覧（一部有料）が可能。  
+[Youtube](https://www.youtube.com/channel/UCe3uJZIjfYwNNR0S6W3GvEA)にもゲーム内ストーリーアーカイブやが公開されている。
 
 また、アニメ、ライブイベント、ラジオなどが展開されており、2024年には10周年に向け、様々な企業とコラボする企画として[Mフェス2024](https://idolmaster-official.jp/sidem/mfes/2024)や[展示会](https://www.sidem.idolmaster-exhibition.com/)も開催している。    
 &nbsp;  
@@ -58,7 +62,6 @@ DRAMATIC STARS（ドラマチックスターズ）は、315プロダクション
 **準備は整った、行くぞ。**
 ![先生](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_2.jpg)  
 さくらば かおる。26歳元外科医。メガネが特徴でクール。完璧主義ながら熱い一面も。  
-
 デレたときにこちらが受ける衝撃が凄まじい。青の系譜。  
 &nbsp;  
 うちだ ゆうま：ゆうくん。薫とは反対ともいえるほどとても明るい。2018年アーティストデビュー。
@@ -70,11 +73,11 @@ DRAMATIC STARS（ドラマチックスターズ）は、315プロダクション
 かしわぎ つばさ。24歳元パイロット。胃袋が底なしで特技は大食い。かわいい。脳トロ声。  
 声のイメージからゆるふわな印象を受けるがそれだけじゃない。意外としっかりしている。  
 &nbsp;   
-やしろ たく：たくちゃん。翼の声は地声ではない。その声どっからでてるの？SideMでは特に苦労人。
+やしろ たく：たくちゃん。翼の声は地声ではない。その声どっからでてるの？SideMでは特に苦労人な印象。
 &nbsp;  
 &nbsp;  
 
-<iframe width="494" height="278" src="https://www.youtube.com/embed/MmFXKqgjBgk" title="ゲーム「アイドルマスター SideM　GROWING STARS」　DRAMATIC STARS／STARLIGHT CELEBRATE!　SideM Play List【アイドルマスター】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+&nbsp;  
 
 >[SideM | 【公式】アイドルマスター ポータル（アイマス）
 ーアイドル紹介](https://idolmaster-official.jp/sidem/idol#f2)
@@ -84,7 +87,10 @@ DRAMATIC STARS（ドラマチックスターズ）は、315プロダクション
 &nbsp;  
 &nbsp;  
 
-### オススメ曲紹介
+### オススメ曲紹介  
+**DRAMATIC STARS／STARLIGHT CELEBRATE!**  
+<iframe width="300" height="200" src="https://www.youtube.com/embed/MmFXKqgjBgk" title="ゲーム「アイドルマスター SideM　GROWING STARS」　DRAMATIC STARS／STARLIGHT CELEBRATE!　SideM Play List【アイドルマスター】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+原点にして頂点。
 
 **各種リンク**
 |X（旧：Twitter）|Youtube（チャンネル）|Lantis（音楽）|ラジオ（ニコニコ）|
