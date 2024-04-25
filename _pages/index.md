@@ -5,7 +5,7 @@ permalink: /
 ---
 
 アイドルマスターSideMより、アイドルユニットのDRAMATIC STARSの紹介をさせていただきます！      
-       
+
 ## 1.アイドルマスターSideMとは    
 [「アイドルマスター」シリーズ](https://idolmaster-official.jp/about)のソーシャルゲームとして2014年に誕生した「ドラマチックアイドル育成ゲーム」です。    
 
@@ -25,13 +25,15 @@ DRAMATIC STARS（ドラマチックスターズ）は、315プロダクション
 
 ### アイドルメンバー紹介  
 **[天道輝](https://idolmaster-official.jp/sidem/idol/teru)**  
-![images](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_1.jpg)  
-**アイドル界の一番星になる男だ！**  
+{: align="center"}![太陽](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_1.jpg)  
+{: align="center"}**アイドル界の一番星になる男だ！**  
 
-**[桜庭薫](https://idolmaster-official.jp/sidem/idol/kaoru)**  
+{: align="center"}**[桜庭薫](https://idolmaster-official.jp/sidem/idol/kaoru)**  
+{: align="center"}![先生](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_2.jpg)
 **準備は整った、行くぞ。**  
 
 **[柏木翼](https://idolmaster-official.jp/sidem/idol/tsubasa)**  
+![てゅばさ](https://idolmaster-official.jp/assets/img/sidem/vender/idol/ds/icon_3.jpg)
 **オレの歌、聞いてください！**  
 
 
